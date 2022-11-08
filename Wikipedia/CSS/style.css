@@ -1,0 +1,306 @@
+html {
+    font-size:62.5%
+}
+
+h1 {
+    font-size: 32px;
+    margin:1.2rem 0
+}
+
+body {
+    background-color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Lato, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    margin:.4rem 0 1.6rem
+}
+
+ a, a:active, a:focus {
+    outline: 0;
+    color: #36c;
+    text-decoration:none
+}
+.mainlang-lang .link-box:hover strong {
+    text-decoration:underline
+}
+.wordmark-wrapper {
+    display: inline-block;
+    vertical-align:bottom
+}
+
+.wordmark {
+    position: relative;
+    margin: 4rem auto .5rem;
+    width: 270px;
+    font-family: Hoefler Text, Georgia, Times New Roman;
+    font-variant: small-caps;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: center;
+}
+
+.slogan-location{
+    display: block;
+    font-family: Linux Libertine, Georgia, Times, serif;
+    font-variant: normal;
+    font-size: 15px;
+    font-weight:400
+    
+}
+
+.mainlang-logo {
+    position: absolute;
+    top: 158px;
+    left:35px
+}
+.mainlang-lang:hover {
+    background-color: #eaecf0;
+    }
+
+.mainlang{
+    position: relative;
+    height: 325px;
+    width: 546px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 29.5;
+    text-align: center;
+    vertical-align:middle
+}
+
+.mainlang-lang {
+    position: absolute;
+    width: 156px;
+}
+
+
+.mainlang-lang strong {
+    display: block;
+    font-size: 16px;
+}
+
+.mainlang-lang small {
+    color: #54595d;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 2;
+    line-height:1.6
+}
+
+
+.lang1 {
+    top: 0;
+    right:60%
+}
+
+.lang2 {
+    top: 0;
+    left:60%
+}
+
+.lang3 {
+    top: 20%;
+    right:70%
+}
+
+.lang4 {
+    top: 20%;
+    left:70%
+}
+
+.lang5 {
+    top: 40%;
+    right:72%
+}
+
+.lang6 {
+    top: 40%;
+    left:72%
+}
+
+.lang7 {
+    top: 60%;
+    right:70%
+}
+
+.lang8 {
+    top: 60%;
+    left:70%
+}
+
+.lang9 {
+    top: 80%;
+    right:60%
+}
+
+.lang10 {
+    top: 80%;
+    left:60%
+}
+   
+.pure-button {
+    position: relative;
+    border: 1px solid #a2a9b1;
+
+    
+    padding: .8rem 1.6rem;
+
+    vertical-align: top;
+}    
+        
+.pure-button-primary-progressive {
+    background-color: #36c;
+    border-color: #36c;
+    color:#fff
+}
+
+.pure-button-primary-progressive:hover {
+    background: #447ff5;
+    border-color:#447ff5
+}        
+       
+.pure-form input[type=search] {
+    background-color: #fff;
+    display: inline-block;
+    
+    box-sizing: border-box;
+    border: 1px solid #a2a9b1;
+    
+    border-radius: 2px;
+    padding: .8rem;
+
+    box-shadow: inset 0 0 0 1px #fff;
+    vertical-align:middle
+}
+
+
+
+.pure-form fieldset {
+    margin: 0;
+    padding: .56rem 0 1.2rem;
+    border:0
+}
+.search-container {
+    float: none;
+    max-width: 95%;
+    width: 540px;
+    margin: .4rem auto 1.95rem;
+    text-align: center;
+    vertical-align:middle
+}
+
+.search-container fieldset {
+    word-spacing:-4px
+}
+
+.search-container button {
+    
+    margin: 0;
+}
+
+#searchInput {
+     width: 100%;
+    height: 44px;
+    font-size: 16px;
+}
+
+#searchInput:hover {
+    border-color:#72777d
+}
+
+#searchInput:focus {
+    border-color: #36c;
+    box-shadow: inset 0 0 0 1px #36c;
+    outline:0
+}    
+
+
+.search-container .search-input {
+    display: inline-block;
+    position: relative;
+    width: 73%;
+    vertical-align:top
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+        
+  
+
+   
+
+    
+
+   
+
+   
+
+
+
+    
+
+  
+
